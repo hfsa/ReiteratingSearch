@@ -1,0 +1,110 @@
+
+body {	
+	/*font-family: "Courier New", Courier, monospace;*/
+	font-family: "Century Gothic", sans-serif;
+	background-color: "white";
+}
+
+#bird {
+	position:fixed;
+	left: 455px;
+	top: 20px;
+
+}
+
+#About {
+	position: fixed;
+	left:650px;
+	top:60px;
+
+}
+
+#term {
+	position: fixed;
+	left:10px;
+	top:100px;
+	width:120px;
+	border-style: ridge;
+}
+
+#search_button {
+position: fixed;
+top: 98px;
+left: 140px;
+border:none;
+background-color: #ffffff;
+}
+
+
+
+
+
+#results_display {
+	border-style: ridge;
+	border-left:none;
+	border-right: none;
+	overflow-y: scroll;
+	text-align:left;
+	position: fixed;
+	left: 180px;
+	top: 100px;
+	width: 500px;
+	margin-left: 10px;
+	height:520px;
+}
+
+
+#left_column {
+	position:fixed;
+	left: 10px;
+	top: 130px;
+	font-size: 14px;
+	width: 150px;
+	height: 250px;
+	text-align: left;
+	overflow-y:scroll;
+
+	border-style: ridge;
+
+}
+
+.button1 {
+
+	width:50px;
+	height:40px;
+
+	background-color: #f6f6f6;
+}
+
+#Pause{
+position: fixed;
+	left:25px;
+	top:390px;
+}
+
+#Restart{
+position: fixed;
+	left:90px;
+	top:390px;
+
+}
+
+#button_div {
+	position:fixed;
+	left:20px;
+	top:365px;
+	width: 150px;
+	height: 200px;
+
+}
+
+
+#Header {
+	position: fixed;
+	top:0px;
+	left:0px;
+	margin-left:15px;
+	margin-top:5px;
+	width:650px;
+}
+
